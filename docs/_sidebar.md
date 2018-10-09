@@ -1,6 +1,8 @@
-- Section name
-  - [readme here as the truely first page](README.md)
-  - [first page](FIRSTPAGE.md)
-- Section name two
-  - [second page](SECONDPAGE.md)
-
+- [Introduction](introduction.md)
+- I. Labs
+  - [`Minikube` lab for single node cluster](minikube.md)
+    - [Details](minikube_details.md)
+  - [`Kubeadm` to initialise Master and Slave cluster](cluster_init.md)
+    - [Details](cluster_init_details.md)
+  - [`Kubectl` to deploy the service and archive scale ](deploy.md)
+    - [Details](deploy_details.md)
