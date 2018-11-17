@@ -12,3 +12,6 @@ you can login the site by Github account and add some new instances in one local
 
 ## The order of reading
 you can open [this site](https://labs.play-with-k8s.com/) and login. you need view the details after finishing the lab to get more experiences.
+
+## About Translation
+This document has been translated to Chinese, you can get it with clicking the `Translations` button on the top.
