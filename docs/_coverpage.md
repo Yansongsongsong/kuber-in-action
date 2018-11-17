@@ -4,7 +4,7 @@
 
 > The tutorial for using Kubernetes with practice online and Detailed explanation
 
-* © ` Successfactors Core-Automation-Framwork`
+* © ` Successfactors Core-Automation-Framework`
 
 [GitHub](https://github.wdf.sap.corp/SF-Automation/k8s-in-action)
 
